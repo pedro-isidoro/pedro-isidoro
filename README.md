@@ -16,5 +16,5 @@
 <br>
 
 <div>
-![Snake animation](https://github.com/pedro-isidoro/pedro-isidoro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedro-isidoro/pedro-isidoro/blob/output/github-contribution-grid-snake.svg)
 </div>
