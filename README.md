@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
 <div>
- Meu Portifólio => https://pedro-isidoro.github.io/mini-portifoilio-pedro/
+ ##Meu Portifólio => https://pedro-isidoro.github.io/mini-portifoilio-pedro/
 </div>
-
+<br>
  <div>
    <a href="https://github.com/pedro-isidoro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-isidoro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
