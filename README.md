@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-## Meu Portifólio => https://pedro-isidoro.github.io/mini-portifoilio-pedro/
+## Meu Mini-Portifólio => https://pedro-isidoro.github.io/mini-portifoilio-pedro/
 
 <br>
  <div>
