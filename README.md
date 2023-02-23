@@ -1,5 +1,8 @@
 # Bem-vindo(a) ao meu perfil 😁
-## Meu Mini-Portifólio => https://pedro-isidoro.github.io/mini-portifoilio-pedro/
+## Sobre mim
+ Sou uma pessoa que se achou na área de tecnologia, gosta de sempre procurar saber mais e se esforça dando seu melhor.
+ Estou cursando Ciência da Computação, e fazendo um curso proficionalizante com suporte e mentoria, Curso DevQuest.
+
 
 <br>
 
