@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu perfil 😁
 ## Sobre mim
- ### Sou uma pessoa que se achou na área de tecnologia, gosta de sempre procurar saber mais e se esforça dando seu melhor.
+ ### Sou uma pessoa que se encontrou na área de tecnologia, gosta de sempre em se informar mais e se esforça sempre dando seu melhor.
  ### Estou cursando Ciência da Computação, e fazendo um curso web Frontend proficionalizante com suporte e mentoria, o qual se chama Curso DevQuest.
 
 
