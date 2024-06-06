@@ -1,11 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
 ### Sobre mim
-- Sou uma pessoa que se encontrou na área de tecnologia, gosta de sempre em se informar mais e se esforça sempre dando seu melhor.
-- Estou cursando Ciência da Computação, e fazendo um curso web Frontend proficionalizante com suporte e mentoria, o qual se chama Curso DevQuest.
-
-
+- Sou uma pessoa esforçada, dedicada, curiosa e ousada. Me encontrei na área de TI, mais precisamente na de programação, e espero encontrar minha 1° opórtunidade de emprego na área.
+- Estou cursando Ciência da Computação junto da mesma um curso web Frontend proficionalizante com suporte e mentoria, o qual se chama Curso DevQuest.
+- Continuo criando estudando, e desenvolvendo projetos cada vez mais desafiadores para mim mesmo.
 <br>
-
  <div>
   <a href="https://github.com/pedro-isidoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-isidoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +17,5 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <div> 
- 
   ![Snake animation](https://github.com/pedro-isidoro/pedro-isidoro/blob/output/github-contribution-grid-snake.svg)
-
 </div>
