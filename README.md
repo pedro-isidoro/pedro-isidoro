@@ -1,6 +1,6 @@
 - Olá! Eu sou Pedro Isidoro👋
 👩‍💻 Estudante e  Desenvolvedor Web Front end
-- Sou uma pessoa esforçada, dedicada, curiosa e ousada. Me encontrei na área de TI, mais precisamente na de programação, e espero encontrar minha 1° opórtunidade de emprego na área.
+- Sou uma pessoa esforçada, dedicada, curiosa e ousada. Me encontrei na área de TI, mais precisamente na de programação.
 - Estou cursando Ciência da Computação junto da mesma um curso web Frontend proficionalizante com suporte e mentoria, o qual se chama Curso DevQuest.
 📫 Me contate em: pedro.isidoro26@yahoo.com.br
 - Continuo criando estudando, e desenvolvendo projetos cada vez mais desafiadores para mim mesmo.
